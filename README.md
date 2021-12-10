@@ -45,3 +45,9 @@ This folder contains the scripts used throught the project:
    
   ### Visualizations.ipynb
     Consists of the visualizations of the different n-grams in our datasets. 
+ 
+ ### Team_Highlights_Showcase_Presentation_Slides.pptx 
+  Contains final showcase presentation .pptx
+  
+ ### Team_Highlights_Final_Report.pdf
+  Contains final project report
